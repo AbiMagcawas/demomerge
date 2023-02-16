@@ -1,4 +1,4 @@
 # demomerge
-abi
-roland
-areanne
+- abi
+- roland
+- areanne
